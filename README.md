@@ -1,3 +1,3 @@
-# Strapi application
+# Ecommerce Backend
 
-A quick description of your strapi application
+A tuts project from [Build a FullStack Ecommerce with Nextjs, Strapi, Magic and Stripe](https://www.youtube.com/watch?v=385cpCpGRC0&t=7937s).
